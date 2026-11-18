@@ -1,6 +1,6 @@
 cask "pdfbud" do
   version "0.1.0"
-  sha256 "4790c602214cc56d07ab79fa8e6f69ecc9da9ff4ce5ab2ee3288dd87e61848b8"
+  sha256 "a566ef5bf3ed09f3293b88699a22115f3102ae8c1ab31d36fe24ee64de540d1e"
 
   url "https://github.com/hfmsio/pdfbud/releases/download/v#{version}/pdfbud-#{version}-arm64.dmg"
   name "pdfbud"
